@@ -12,12 +12,13 @@ An web application for the potential/returning summer students at Harvard with t
 4.  
 * Team Name: A-Team
 * Team Roster:
-Name                    Role
-----                    ------
-Simon Soerensen         Scrum Master and Development Team Member
-Chun Chao Tseng         Product Owner and Development Team Member
-Anna Levin              Development Team Member
-MD Mohiuddin Faruqe     Development Team Member
+
+| Name                  |  Role                                        |
+| :---------------------|  :-------------------------------------------|
+| Simon Soerensen       |  Scrum Master and Development Team Member    |
+| Chun Chao Tseng       |  Product Owner and Development Team Member   |
+| Anna Levin            |  Development Team Member                     |
+| MD Mohiuddin Faruqe   |  Development Team Member                     |
 
 5. Open source product: Cross Roads
 6. Far vision: An augmented reality of summer harvard
